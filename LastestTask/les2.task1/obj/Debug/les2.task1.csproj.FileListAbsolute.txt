@@ -1,0 +1,8 @@
+D:\ConsoleApp5\les2.task1\bin\Debug\les2.task1.exe.config
+D:\ConsoleApp5\les2.task1\bin\Debug\les2.task1.exe
+D:\ConsoleApp5\les2.task1\bin\Debug\les2.task1.pdb
+D:\ConsoleApp5\les2.task1\obj\Debug\les2.task1.csproj.AssemblyReference.cache
+D:\ConsoleApp5\les2.task1\obj\Debug\les2.task1.csproj.SuggestedBindingRedirects.cache
+D:\ConsoleApp5\les2.task1\obj\Debug\les2.task1.csproj.CoreCompileInputs.cache
+D:\ConsoleApp5\les2.task1\obj\Debug\les2.task1.exe
+D:\ConsoleApp5\les2.task1\obj\Debug\les2.task1.pdb
