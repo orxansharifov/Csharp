@@ -1,0 +1,6 @@
+D:\ConsoleApp11\void methods\bin\Debug\void methods.exe
+D:\ConsoleApp11\void methods\bin\Debug\void methods.pdb
+D:\ConsoleApp11\void methods\obj\Debug\void methods.csproj.AssemblyReference.cache
+D:\ConsoleApp11\void methods\obj\Debug\void methods.csproj.CoreCompileInputs.cache
+D:\ConsoleApp11\void methods\obj\Debug\void methods.exe
+D:\ConsoleApp11\void methods\obj\Debug\void methods.pdb
