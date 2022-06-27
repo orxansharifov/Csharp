@@ -1,8 +1,0 @@
-D:\ConsoleApp5\les4.task2\bin\Debug\les4.task2.exe.config
-D:\ConsoleApp5\les4.task2\bin\Debug\les4.task2.exe
-D:\ConsoleApp5\les4.task2\bin\Debug\les4.task2.pdb
-D:\ConsoleApp5\les4.task2\obj\Debug\les4.task2.csproj.AssemblyReference.cache
-D:\ConsoleApp5\les4.task2\obj\Debug\les4.task2.csproj.SuggestedBindingRedirects.cache
-D:\ConsoleApp5\les4.task2\obj\Debug\les4.task2.csproj.CoreCompileInputs.cache
-D:\ConsoleApp5\les4.task2\obj\Debug\les4.task2.exe
-D:\ConsoleApp5\les4.task2\obj\Debug\les4.task2.pdb
